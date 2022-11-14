@@ -516,6 +516,7 @@ winget install --id=TheDocumentFoundation.LibreOffice.HelpPack -e &&
 winget install --id=Microsoft.WindowsPCHealthCheck -e &&
 winget install --id=Microsoft.PowerToys -e &&
 winget install --id=Microsoft.VisualStudioCode -e &&
+winget install --id=Git.Git -e &&
 winget upgrade --all
 ```
 
@@ -559,6 +560,7 @@ winget install --id=Microsoft.WindowsPCHealthCheck -e &&
 winget install --id=Microsoft.PowerToys -e &&
 winget install --id=ProtonTechnologies.ProtonVPN -e &&
 winget install --id=Microsoft.VisualStudioCode -e &&
+winget install --id=Git.Git -e &&
 winget install --id=Discord.Discord -e &&
 winget install --id=GOG.Galaxy -e &&
 winget install --id=Valve.Steam -e &&
@@ -612,6 +614,7 @@ winget install --id=Microsoft.WindowsPCHealthCheck -e &&
 winget install --id=Microsoft.PowerToys -e &&
 winget install --id=ProtonTechnologies.ProtonVPN -e &&
 winget install --id=Microsoft.VisualStudioCode -e &&
+winget install --id=Git.Git -e &&
 winget install --id=Discord.Discord -e &&
 winget install --id=GOG.Galaxy -e &&
 winget install --id=Valve.Steam -e &&
