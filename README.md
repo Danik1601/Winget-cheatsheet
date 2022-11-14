@@ -7,4 +7,4 @@ This is not affiliated with Microsoft or Winget project.
 
 # Winget-cheatsheet
 
-[Click here to view cheatsheet](Resources\Winget.md)
+[Click here to view cheatsheet](Resources/Winget.md)
