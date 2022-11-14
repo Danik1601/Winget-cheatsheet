@@ -32,7 +32,7 @@ https://support.microsoft.com/topic/use-the-system-file-checker-tool-to-repair-m
 
 ### Microsoft Store Apps:
 
-#### Essentials
+#### Essentials:
 
 Microsoft App Installer:
 
@@ -423,7 +423,7 @@ winget install --id=GoLang.Go -e &&
 winget install --id=DisplayLink.GraphicsDriver -e
 ```
 
-#### Hardware
+#### Hardware:
 
 ```
 winget install --id=Logitech.GHUB -e &&
@@ -431,31 +431,30 @@ winget install --id=Logitech.GHUB -e &&
 
 #### Redistributables & runtimes:
 
-##### Visual C++ Redistributable:
+##### Visual C++ Redistributables:
 
 ```
-winget install --id=Microsoft.VCRedist.2005.x86 -e
-winget install --id=Microsoft.VCRedist.2005.x64 -e
-winget install --id=Microsoft.VCRedist.2008.x86 -e
-winget install --id=Microsoft.VCRedist.2008.x64 -e
-winget install --id=Microsoft.VCRedist.2010.x86 -e
-winget install --id=Microsoft.VCRedist.2010.x64 -e
-winget install --id=Microsoft.VCRedist.2012.x86 -e
-winget install --id=Microsoft.VCRedist.2012.x64 -e
+winget install --id=Microsoft.VCRedist.2005.x86 -e &&
+winget install --id=Microsoft.VCRedist.2005.x64 -e &&
+winget install --id=Microsoft.VCRedist.2008.x86 -e &&
+winget install --id=Microsoft.VCRedist.2008.x64 -e &&
+winget install --id=Microsoft.VCRedist.2010.x86 -e &&
+winget install --id=Microsoft.VCRedist.2010.x64 -e &&
+winget install --id=Microsoft.VCRedist.2012.x86 -e &&
+winget install --id=Microsoft.VCRedist.2012.x64 -e &&
 winget install --id=Microsoft.VCRedist.2013.x86 -e &&
 winget install --id=Microsoft.VCRedist.2013.x64 -e &&
 winget install --id=Microsoft.VCRedist.2015+.x86 -e &&
 winget install --id=Microsoft.VCRedist.2015+.x64 -e &&
 ```
 
-##### .NET Runtime:
+##### .NET Runtimes:
 
 ```
 winget install --id=Microsoft.DotNet.Runtime.3 -e &&
 winget install --id=Microsoft.DotNet.Runtime.5 -e &&
 winget install --id=Microsoft.DotNet.Runtime.6 -e &&
 winget install --id=Microsoft.DotNet.Runtime.7 -e &&
-winget install --id=Microsoft.dotNetFramework -e &&
 ```
 
 ##### .NET Framework:
@@ -464,7 +463,7 @@ winget install --id=Microsoft.dotNetFramework -e &&
 winget install --id=Microsoft.dotNetFramework -e &&
 ```
 
-#### Upgrades
+#### Upgrades:
 
 ```
 Windows 10 Upgrade Assistant:
