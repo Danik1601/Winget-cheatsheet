@@ -1,11 +1,11 @@
-NOTE
+NOTICE
 
 ---
 
 This is my personal combination of useful Winget commands and apps.
 This is not affiliated with Microsoft or Winget project.
 
-NOTICE
+NOTE
 
 ---
 
