@@ -673,7 +673,7 @@ winget install --id=Microsoft.dotNetFramework -e &&
 winget upgrade --all
 ```
 
-### Working PCs (Win32 versions of Telegram, WhatsApp, Wiber):
+### Working PCs (Win32 versions of Telegram, WhatsApp, Viber):
 
 ```
 winget install --id=9NBLGGH4NNS1 -e --accept-package-agreements &&
