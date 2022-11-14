@@ -28,7 +28,7 @@ https://support.microsoft.com/topic/use-the-system-file-checker-tool-to-repair-m
 
 <https://apps.microsoft.com/>
 
-### Apps
+## Apps
 
 #### Microsoft Store Apps:
 
@@ -336,7 +336,9 @@ Minecraft Education Edition:
 winget install --id=9NBLGGH4R2R6 -e --accept-package-agreements &&
 ```
 
-### Win32:
+#### Win32 Apps:
+
+##### Essentials:
 
 ```
 winget install --id=Google.Chrome -e &&
@@ -427,7 +429,7 @@ winget install --id=DisplayLink.GraphicsDriver -e
 winget install --id=Logitech.GHUB -e &&
 ```
 
-##### Runtime:
+##### Redistributables & runtimes:
 
 ###### Visual C++ Redistributable:
 
