@@ -30,9 +30,9 @@ https://support.microsoft.com/topic/use-the-system-file-checker-tool-to-repair-m
 
 ## Apps
 
-#### Microsoft Store Apps:
+### Microsoft Store Apps:
 
-##### Essentials
+#### Essentials
 
 Microsoft App Installer:
 
@@ -184,7 +184,7 @@ Windows Subsystem for Linux (Preview):
 winget install --id=9P9TQF7MRM4R -e --accept-package-agreements &&
 ```
 
-##### Gaming:
+#### Gaming:
 
 Xbox:
 
@@ -210,7 +210,7 @@ Xbox Avatar Editor:
 winget install --id=9NBLGGH4V0R3 -e --accept-package-agreements &&
 ```
 
-##### Hardware specific:
+#### Hardware specific:
 
 AMD Radeon Software:
 
@@ -284,7 +284,7 @@ HP Smart:
 winget install --id=9WZDNCRFHWLH -e --accept-package-agreements &&
 ```
 
-##### Other:
+#### Other:
 
 Microsoft Family Safety:
 
@@ -316,7 +316,7 @@ HotSpot Shield VPN:
 winget install --id=9WZDNCRDFNG7 -e --accept-package-agreements &&
 ```
 
-##### Games:
+#### Games:
 
 Minecraft Launcher:
 
@@ -336,9 +336,9 @@ Minecraft Education Edition:
 winget install --id=9NBLGGH4R2R6 -e --accept-package-agreements &&
 ```
 
-#### Win32 Apps:
+### Win32 Apps:
 
-##### Essentials:
+#### Essentials:
 
 ```
 winget install --id=Google.Chrome -e &&
@@ -364,7 +364,7 @@ winget install --id=WhatsApp.WhatsApp -e &&
 winget install --id=Viber.Viber -e &&
 ```
 
-##### Tools:
+#### Tools:
 
 ```
 winget install --id=Seagate.SeaTools -e &&
@@ -379,19 +379,19 @@ winget install --id=CPUID.HWMonitor -e &&
 winget install --id=TechPowerUp.GPU-Z -e &&
 ```
 
-##### 2FA:
+#### 2FA:
 
 ```
 winget install --id=Twilio.Authy -e &&
 ```
 
-##### Office:
+#### Office:
 
 ```
 winget install --id=Microsoft.Office -e &&
 ```
 
-##### VPN:
+#### VPN:
 
 ```
 winget install --id=ProtonTechnologies.ProtonVPN -e &&
@@ -399,14 +399,14 @@ winget install --id=TorProject.TorBrowser -e &&
 winget install --id=LogMeIn.Hamachi -e &&
 ```
 
-##### Virtualization:
+#### Virtualization:
 
 ```
 winget install --id=Oracle.VirtualBox -e &&
 winget install --id=Docker.DockerDesktop -e &&
 ```
 
-##### Development:
+#### Development:
 
 ```
 winget install --id=Microsoft.VisualStudioCode -e &&
@@ -417,21 +417,21 @@ winget install --id=OpenJS.NodeJS -e &&
 winget install --id=GoLang.Go -e &&
 ```
 
-##### DisplayLink:
+#### DisplayLink:
 
 ```
 winget install --id=DisplayLink.GraphicsDriver -e
 ```
 
-##### Hardware
+#### Hardware
 
 ```
 winget install --id=Logitech.GHUB -e &&
 ```
 
-##### Redistributables & runtimes:
+#### Redistributables & runtimes:
 
-###### Visual C++ Redistributable:
+##### Visual C++ Redistributable:
 
 ```
 winget install --id=Microsoft.VCRedist.2005.x86 -e
@@ -448,7 +448,7 @@ winget install --id=Microsoft.VCRedist.2015+.x86 -e &&
 winget install --id=Microsoft.VCRedist.2015+.x64 -e &&
 ```
 
-###### .NET Runtime:
+##### .NET Runtime:
 
 ```
 winget install --id=Microsoft.DotNet.Runtime.3 -e &&
@@ -458,13 +458,13 @@ winget install --id=Microsoft.DotNet.Runtime.7 -e &&
 winget install --id=Microsoft.dotNetFramework -e &&
 ```
 
-###### .NET Framework:
+##### .NET Framework:
 
 ```
 winget install --id=Microsoft.dotNetFramework -e &&
 ```
 
-##### Upgrades
+#### Upgrades
 
 ```
 Windows 10 Upgrade Assistant:
