@@ -16,7 +16,7 @@ https://support.microsoft.com/topic/use-the-system-file-checker-tool-to-repair-m
 
 `DISM.exe /Online /Cleanup-image /Restorehealth && sfc /scannow`
 
-## Microsoft Support and Recovery Assistant
+## Microsoft Support and Recovery Assistant:
 
 https://support.microsoft.com/en-us/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f
 
