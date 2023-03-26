@@ -18,7 +18,7 @@ https://support.microsoft.com/topic/use-the-system-file-checker-tool-to-repair-m
 
 ## Microsoft Support and Recovery Assistant:
 
-https://support.microsoft.com/en-us/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f
+https://support.microsoft.com/office/about-the-microsoft-support-and-recovery-assistant-e90bb691-c2a7-4697-a94f-88836856c72f
 
 ---
 
