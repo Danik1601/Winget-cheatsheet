@@ -431,6 +431,8 @@ winget install --id=DisplayLink.GraphicsDriver -e
 
 ```
 winget install --id=Logitech.GHUB -e &&
+winget install --id=SteelSeries.GG -e &&
+winget install --id=SteelSeries.SteelSeriesEngine -e &&
 ```
 
 #### Redistributables & runtimes:
@@ -574,7 +576,7 @@ winget install --id=Ubisoft.Connect -e &&
 winget upgrade --all
 ```
 
-### Full package (AMD & Intel & MSI Center & Logitech GHUB):
+### Full package (AMD & Intel & MSI Center & Logitech G HUB & SteelSeries GG):
 
 ```
 winget install --id=9NBLGGH4NNS1 -e --accept-package-agreements &&
@@ -627,6 +629,8 @@ winget install --id=ElectronicArts.EADesktop -e &&
 winget install --id=Ubisoft.Connect -e &&
 winget install --id=Intel.IntelDriverAndSupportAssistant -e &&
 winget install --id=Logitech.GHUB -e &&
+winget install --id=SteelSeries.GG -e &&
+winget install --id=SteelSeries.SteelSeriesEngine -e &&
 winget upgrade --all
 ```
 
