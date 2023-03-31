@@ -432,7 +432,6 @@ winget install --id=DisplayLink.GraphicsDriver -e
 ```
 winget install --id=Logitech.GHUB -e &&
 winget install --id=SteelSeries.GG -e &&
-winget install --id=SteelSeries.SteelSeriesEngine -e &&
 ```
 
 #### Redistributables & runtimes:
@@ -630,7 +629,6 @@ winget install --id=Ubisoft.Connect -e &&
 winget install --id=Intel.IntelDriverAndSupportAssistant -e &&
 winget install --id=Logitech.GHUB -e &&
 winget install --id=SteelSeries.GG -e &&
-winget install --id=SteelSeries.SteelSeriesEngine -e &&
 winget upgrade --all
 ```
 
