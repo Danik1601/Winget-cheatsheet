@@ -376,6 +376,10 @@ winget install --id=HandBrake.HandBrake -e &&
 winget install --id=RARLab.WinRAR -e &&
 winget install --id=7zip.7zip -e &&
 winget install --id=TimKosse.FileZilla.Client -e &&
+winget install --id=Syncthing.Syncthing -e &&
+winget install --id=SyncTrayzor.SyncTrayzor -e &&
+winget install --id=Nextcloud.NextcloudDesktop -e &&
+winget install --id=ownCloud.ownCloudDesktop -e &&
 winget install --id=Olivia.VIA -e &&
 winget install --id=PuTTY.PuTTY -e &&
 winget install --id=CPUID.CPU-Z -e &&
@@ -392,6 +396,8 @@ winget install --id=Twilio.Authy -e &&
 #### Office:
 
 ```
+winget install --id=TheDocumentFoundation.LibreOffice -e &&
+winget install --id=TheDocumentFoundation.LibreOffice.HelpPack -e &&
 winget install --id=Microsoft.Office -e &&
 ```
 
@@ -403,10 +409,12 @@ winget install --id=TorProject.TorBrowser -e &&
 winget install --id=LogMeIn.Hamachi -e &&
 ```
 
-#### Virtualization:
+#### Virtualization & Containers:
 
 ```
 winget install --id=Oracle.VirtualBox -e &&
+winget install --id=RedHat.Podman -e &&
+winget install --id=RedHat.Podman-Desktop -e &&
 winget install --id=Docker.DockerDesktop -e &&
 ```
 
@@ -417,8 +425,8 @@ winget install --id=Microsoft.VisualStudioCode -e &&
 winget install --id=Microsoft.VisualStudio.2022.Community -e &&
 winget install --id=Google.AndroidStudio -e &&
 winget install --id=Git.Git -e &&
-winget install --id=OpenJS.NodeJS -e &&
 winget install --id=GoLang.Go -e &&
+winget install --id=OpenJS.NodeJS -e &&
 ```
 
 #### DisplayLink:
