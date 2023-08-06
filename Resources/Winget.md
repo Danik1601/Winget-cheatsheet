@@ -401,6 +401,7 @@ winget install --id=Twilio.Authy -e &&
 winget install --id=TheDocumentFoundation.LibreOffice -e &&
 winget install --id=TheDocumentFoundation.LibreOffice.HelpPack -e &&
 winget install --id=Microsoft.Office -e &&
+winget install --id=Mozilla.Thunderbird -e &&
 ```
 
 #### VPN:
@@ -676,6 +677,7 @@ winget install --id=Google.ChromeRemoteDesktop -e &&
 winget install --id=Google.NearbyShare -e &&
 winget install --id=AnyDeskSoftwareGmbH.AnyDesk -e &&
 winget install --id=Transmission.Transmission -e &&
+winget install --id=Mozilla.Thunderbird -e &&
 winget install --id=TheDocumentFoundation.LibreOffice -e &&
 winget install --id=TheDocumentFoundation.LibreOffice.HelpPack -e &&
 winget install --id=Microsoft.VCRedist.2005.x86 -e &&
@@ -725,6 +727,7 @@ winget install --id=Telegram.TelegramDesktop -e &&
 winget install --id=WhatsApp.WhatsApp -e &&
 winget install --id=Viber.Viber -e &&
 winget install --id=Transmission.Transmission -e &&
+winget install --id=Mozilla.Thunderbird -e &&
 winget install --id=TheDocumentFoundation.LibreOffice -e &&
 winget install --id=TheDocumentFoundation.LibreOffice.HelpPack -e &&
 winget install --id=Microsoft.VCRedist.2005.x86 -e &&
