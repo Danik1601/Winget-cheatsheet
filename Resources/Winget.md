@@ -517,6 +517,9 @@ winget upgrade --all
 ### Bare minimum:
 
 ```
+winget install --id=9NBLGGH4NNS1 -e --accept-package-agreements &&
+winget install --id=9N0DX20HK701 -e --accept-package-agreements &&
+winget install --id=9MZ1SNWT0N5D -e --accept-package-agreements &&
 winget install --id=9MZ95KL8MR0L -e --accept-package-agreements &&
 winget install --id=9WZDNCRFJ3PV -e --accept-package-agreements &&
 winget install --id=9N5TDP8VCMHS -e --accept-package-agreements &&
