@@ -360,6 +360,7 @@ winget install --id=Microsoft.WindowsPCHealthCheck -e &&
 winget install --id=Microsoft.PowerToys -e &&
 winget install --id=AnyDeskSoftwareGmbH.AnyDesk -e &&
 winget install --id=Discord.Discord -e &&
+winget install --id=RustDesk.RustDesk -e &&
 winget install --id=Telegram.TelegramDesktop -e &&
 winget install --id=WhatsApp.WhatsApp -e &&
 winget install --id=Viber.Viber -e &&
@@ -373,6 +374,9 @@ winget install --id=Valve.Steam -e &&
 winget install --id=EpicGames.EpicGamesLauncher -e &&
 winget install --id=ElectronicArts.EADesktop -e &&
 winget install --id=Ubisoft.Connect -e &&
+winget install --id=Modrinth.ModrinthApp -e &&
+winget install --id=LizardByte.Sunshine -e &&
+winget install --id=MoonlightGameStreamingProject.Moonlight -e &&
 ```
 
 #### Tools:
