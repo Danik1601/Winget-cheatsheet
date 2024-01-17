@@ -128,6 +128,12 @@ Microsoft Remote Desktop:
 winget install --id=9WZDNCRFJ3PS -e --accept-package-agreements &&
 ```
 
+Microsoft PC Manager:
+
+```
+winget install --id=9PM860492SZD -e --accept-package-agreements &&
+```
+
 VLC UWP:
 
 ```
