@@ -351,6 +351,7 @@ winget install --id=Google.QuickShare -e &&
 winget install --id=Google.GoogleDrive -e &&
 winget install --id=Parsec.Parsec -e &&
 winget install --id=Transmission.Transmission -e &&
+winget install --id VideoLAN.VLC -e &&
 winget install --id=OBSProject.OBSStudio -e &&
 winget install --id=Balena.Etcher -e &&
 winget install --id=TheDocumentFoundation.LibreOffice -e &&
@@ -537,6 +538,7 @@ winget install --id=RustDesk.RustDesk -e &&
 winget install --id=LizardByte.Sunshine -e &&
 winget install --id=Parsec.Parsec -e &&
 winget install --id=Transmission.Transmission -e &&
+winget install --id VideoLAN.VLC -e &&
 winget install --id=OBSProject.OBSStudio -e &&
 winget install --id=Balena.Etcher -e &&
 winget install --id=TheDocumentFoundation.LibreOffice -e &&
@@ -578,6 +580,7 @@ winget install --id=RustDesk.RustDesk -e &&
 winget install --id=LizardByte.Sunshine -e &&
 winget install --id=Parsec.Parsec -e &&
 winget install --id=Transmission.Transmission -e &&
+winget install --id VideoLAN.VLC -e &&
 winget install --id=OBSProject.OBSStudio -e &&
 winget install --id=Balena.Etcher -e &&
 winget install --id=TheDocumentFoundation.LibreOffice -e &&
@@ -630,6 +633,7 @@ winget install --id=RustDesk.RustDesk -e &&
 winget install --id=LizardByte.Sunshine -e &&
 winget install --id=Parsec.Parsec -e &&
 winget install --id=Transmission.Transmission -e &&
+winget install --id VideoLAN.VLC -e &&
 winget install --id=OBSProject.OBSStudio -e &&
 winget install --id=Balena.Etcher -e &&
 winget install --id=TheDocumentFoundation.LibreOffice -e &&
@@ -674,6 +678,7 @@ winget install --id=Google.ChromeRemoteDesktopHost -e &&
 winget install --id=Google.QuickShare -e &&
 winget install --id=RustDesk.RustDesk -e &&
 winget install --id=Transmission.Transmission -e &&
+winget install --id VideoLAN.VLC -e &&
 winget install --id=Mozilla.Thunderbird -e &&
 winget install --id=TheDocumentFoundation.LibreOffice -e &&
 winget install --id=TheDocumentFoundation.LibreOffice.HelpPack -e &&
@@ -719,6 +724,7 @@ winget install --id=Telegram.TelegramDesktop -e &&
 winget install --id=WhatsApp.WhatsApp -e &&
 winget install --id=Viber.Viber -e &&
 winget install --id=Transmission.Transmission -e &&
+winget install --id VideoLAN.VLC -e &&
 winget install --id=Mozilla.Thunderbird -e &&
 winget install --id=TheDocumentFoundation.LibreOffice -e &&
 winget install --id=TheDocumentFoundation.LibreOffice.HelpPack -e &&
