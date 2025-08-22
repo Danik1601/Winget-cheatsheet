@@ -377,6 +377,7 @@ winget install --id MoonlightGameStreamingProject.Moonlight -e &&
 #### Tools:
 
 ```
+winget install --id Microsoft.PowerShell -e &&
 winget install --id Seagate.SeaTools -e &&
 winget install --id HandBrake.HandBrake -e &&
 winget install --id RARLab.WinRAR -e &&
