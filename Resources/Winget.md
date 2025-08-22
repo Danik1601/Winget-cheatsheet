@@ -6,7 +6,7 @@ https://support.microsoft.com/topic/use-the-system-file-checker-tool-to-repair-m
 
 ## Deployment Image Servicing and Management:
 
-`DISM.exe /Online /Cleanup-image /Restorehealth`
+`DISM /Online /Cleanup-image /Restorehealth`
 
 ## System File Checker:
 
@@ -14,7 +14,7 @@ https://support.microsoft.com/topic/use-the-system-file-checker-tool-to-repair-m
 
 ## Combined DISM and SFC:
 
-`DISM.exe /Online /Cleanup-image /Restorehealth && sfc /scannow`
+`DISM /Online /Cleanup-image /Restorehealth && sfc /scannow`
 
 ## Microsoft Support and Recovery Assistant:
 
