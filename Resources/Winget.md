@@ -246,12 +246,6 @@ NVIDIA Control Panel:
 winget install --id 9NF8H0H7WMLT -e --accept-package-agreements &&
 ```
 
-NVIDIA GeForce Experience:
-
-```
-winget install --id Nvidia.GeForceExperience -e &&
-```
-
 My Dell:
 
 ```
