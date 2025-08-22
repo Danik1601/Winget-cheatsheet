@@ -564,7 +564,6 @@ winget install --id 9NZTWSQNTD0S -e --accept-package-agreements &&
 winget install --id 9NBLGGH4Z1JC -e --accept-package-agreements &&
 winget install --id 9MV0B5HZVK9Z -e --accept-package-agreements &&
 winget install --id 9NBLGGH30XJ3 -e --accept-package-agreements &&
-winget install --id 9PGW18NPBZV5 -e --accept-package-agreements &&
 winget install --id Google.Chrome -e &&
 winget install --id Google.ChromeRemoteDesktopHost -e &&
 winget install --id Google.QuickShare -e &&
@@ -612,7 +611,6 @@ winget install --id 9NZTWSQNTD0S -e --accept-package-agreements &&
 winget install --id 9NBLGGH4Z1JC -e --accept-package-agreements &&
 winget install --id 9MV0B5HZVK9Z -e --accept-package-agreements &&
 winget install --id 9NBLGGH30XJ3 -e --accept-package-agreements &&
-winget install --id 9PGW18NPBZV5 -e --accept-package-agreements &&
 winget install --id 9NZ1BJQN6BHL -e --accept-package-agreements &&
 winget install --id 9PLFNLNT3G5G -e --accept-package-agreements &&
 winget install --id 9NVMNJCR03XV -e --accept-package-agreements &&
