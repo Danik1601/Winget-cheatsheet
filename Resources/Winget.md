@@ -486,12 +486,17 @@ winget install --id Microsoft.dotNetFramework -e &&
 
 #### Upgrades:
 
-```
+
 Windows 10 Upgrade Assistant:
+```
 winget install --id Microsoft.UpdateAssistant -e &&
+```
 Windows 11 Upgrade Assistant:
+```
 winget install --id Microsoft.WindowsInstallationAssistant -e &&
+```
 PC Health Check:
+```
 winget install --id Microsoft.WindowsPCHealthCheck -e &&
 ```
 
