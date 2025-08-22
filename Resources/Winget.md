@@ -202,6 +202,12 @@ Xbox Game Bar:
 winget install --id 9NZKPSTSNW4P -e --accept-package-agreements &&
 ```
 
+Xbox Identity Provider:
+
+```
+winget install --id 9WZDNCRD1HKW -e --accept-package-agreements &&
+```
+
 Xbox Avatar Editor:
 
 ```
