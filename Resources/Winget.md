@@ -158,12 +158,6 @@ WhatsApp Desktop:
 winget install --id 9NKSQGP7F2NH -e --accept-package-agreements &&
 ```
 
-Skype:
-
-```
-winget install --id 9WZDNCRFJ364 -e --accept-package-agreements &&
-```
-
 Speedtest by Ookla:
 
 ```
@@ -567,7 +561,6 @@ winget install --id 9NMZlZ57R3T7 -e --accept-package-agreements &&
 winget install --id 9NZKPSTSNW4P -e --accept-package-agreements &&
 winget install --id 9WZDNCRFJ3PS -e --accept-package-agreements &&
 winget install --id 9NZTWSQNTD0S -e --accept-package-agreements &&
-winget install --id 9WZDNCRFJ364 -e --accept-package-agreements &&
 winget install --id 9NBLGGH4Z1JC -e --accept-package-agreements &&
 winget install --id 9MV0B5HZVK9Z -e --accept-package-agreements &&
 winget install --id 9NBLGGH30XJ3 -e --accept-package-agreements &&
@@ -616,7 +609,6 @@ winget install --id 9NMZlZ57R3T7 -e --accept-package-agreements &&
 winget install --id 9NZKPSTSNW4P -e --accept-package-agreements &&
 winget install --id 9WZDNCRFJ3PS -e --accept-package-agreements &&
 winget install --id 9NZTWSQNTD0S -e --accept-package-agreements &&
-winget install --id 9WZDNCRFJ364 -e --accept-package-agreements &&
 winget install --id 9NBLGGH4Z1JC -e --accept-package-agreements &&
 winget install --id 9MV0B5HZVK9Z -e --accept-package-agreements &&
 winget install --id 9NBLGGH30XJ3 -e --accept-package-agreements &&
