@@ -445,6 +445,7 @@ winget install --id DisplayLink.GraphicsDriver -e
 #### Hardware:
 
 ```
+winget install --id Logitech.OptionsPlus -e &&
 winget install --id Logitech.GHUB -e &&
 winget install --id SteelSeries.GG -e &&
 winget install --id PlayStation.DualSenseFWUpdater -e &&
@@ -645,6 +646,7 @@ winget install --id EpicGames.EpicGamesLauncher -e &&
 winget install --id ElectronicArts.EADesktop -e &&
 winget install --id Ubisoft.Connect -e &&
 winget install --id Intel.IntelDriverAndSupportAssistant -e &&
+winget install --id Logitech.OptionsPlus -e &&
 winget install --id Logitech.GHUB -e &&
 winget install --id SteelSeries.GG -e &&
 winget install --id PlayStation.DualSenseFWUpdater -e &&
