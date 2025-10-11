@@ -122,10 +122,10 @@ HEVC Video Extensions
 winget install --id 9NMZlZ57R3T7 -e --accept-package-agreements &&
 ```
 
-Microsoft Remote Desktop:
+Microsoft Windows App:
 
 ```
-winget install --id 9WZDNCRFJ3PS -e --accept-package-agreements &&
+winget install --id 9N1F85V9T8BN -e --accept-package-agreements &&
 ```
 
 Microsoft PC Manager:
@@ -529,7 +529,7 @@ winget install --id 9MVZQVXJBQ9V -e --accept-package-agreements &&
 winget install --id 9N4D0MSMP0PT -e --accept-package-agreements &&
 winget install --id 9N95Q1ZZPMH4 -e --accept-package-agreements &&
 winget install --id 9NMZlZ57R3T7 -e --accept-package-agreements &&
-winget install --id 9WZDNCRFJ3PS -e --accept-package-agreements &&
+winget install --id 9N1F85V9T8BN -e --accept-package-agreements &&
 winget install --id 9NZTWSQNTD0S -e --accept-package-agreements &&
 winget install --id Google.Chrome -e &&
 winget install --id Google.ChromeRemoteDesktopHost -e &&
@@ -566,7 +566,7 @@ winget install --id 9N4D0MSMP0PT -e --accept-package-agreements &&
 winget install --id 9N95Q1ZZPMH4 -e --accept-package-agreements &&
 winget install --id 9NMZlZ57R3T7 -e --accept-package-agreements &&
 winget install --id 9NZKPSTSNW4P -e --accept-package-agreements &&
-winget install --id 9WZDNCRFJ3PS -e --accept-package-agreements &&
+winget install --id 9N1F85V9T8BN -e --accept-package-agreements &&
 winget install --id 9NZTWSQNTD0S -e --accept-package-agreements &&
 winget install --id 9NBLGGH4Z1JC -e --accept-package-agreements &&
 winget install --id 9MV0B5HZVK9Z -e --accept-package-agreements &&
@@ -613,7 +613,7 @@ winget install --id 9N4D0MSMP0PT -e --accept-package-agreements &&
 winget install --id 9N95Q1ZZPMH4 -e --accept-package-agreements &&
 winget install --id 9NMZlZ57R3T7 -e --accept-package-agreements &&
 winget install --id 9NZKPSTSNW4P -e --accept-package-agreements &&
-winget install --id 9WZDNCRFJ3PS -e --accept-package-agreements &&
+winget install --id 9N1F85V9T8BN -e --accept-package-agreements &&
 winget install --id 9NZTWSQNTD0S -e --accept-package-agreements &&
 winget install --id 9NBLGGH4Z1JC -e --accept-package-agreements &&
 winget install --id 9MV0B5HZVK9Z -e --accept-package-agreements &&
@@ -667,7 +667,7 @@ winget install --id 9MVZQVXJBQ9V -e --accept-package-agreements &&
 winget install --id 9N4D0MSMP0PT -e --accept-package-agreements &&
 winget install --id 9N95Q1ZZPMH4 -e --accept-package-agreements &&
 winget install --id 9NMZlZ57R3T7 -e --accept-package-agreements &&
-winget install --id 9WZDNCRFJ3PS -e --accept-package-agreements &&
+winget install --id 9N1F85V9T8BN -e --accept-package-agreements &&
 winget install --id 9NZTWSQNTD0S -e --accept-package-agreements &&
 winget install --id 9NKSQGP7F2NH -e --accept-package-agreements &&
 winget install --id Google.Chrome -e &&
@@ -712,7 +712,7 @@ winget install --id 9MVZQVXJBQ9V -e --accept-package-agreements &&
 winget install --id 9N4D0MSMP0PT -e --accept-package-agreements &&
 winget install --id 9N95Q1ZZPMH4 -e --accept-package-agreements &&
 winget install --id 9NMZlZ57R3T7 -e --accept-package-agreements &&
-winget install --id 9WZDNCRFJ3PS -e --accept-package-agreements &&
+winget install --id 9N1F85V9T8BN -e --accept-package-agreements &&
 winget install --id Google.Chrome -e &&
 winget install --id Google.ChromeRemoteDesktopHost -e &&
 winget install --id Google.QuickShare -e &&
