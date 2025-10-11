@@ -418,7 +418,7 @@ winget install --id Mozilla.Thunderbird -e &&
 #### VPN:
 
 ```
-winget install --id ProtonTechnologies.ProtonVPN -e &&
+winget install --id Proton.ProtonVPN -e &&
 winget install --id TorProject.TorBrowser -e &&
 winget install --id LogMeIn.Hamachi -e &&
 ```
@@ -593,7 +593,7 @@ winget install --id TheDocumentFoundation.LibreOffice.HelpPack -e &&
 winget install --id Microsoft.PCManager -e &&
 winget install --id Microsoft.WindowsPCHealthCheck -e &&
 winget install --id Microsoft.PowerToys -e &&
-winget install --id ProtonTechnologies.ProtonVPN -e &&
+winget install --id Proton.ProtonVPN -e &&
 winget install --id Microsoft.VisualStudioCode -e &&
 winget install --id Git.Git -e &&
 winget install --id Discord.Discord -e &&
@@ -643,7 +643,7 @@ winget install --id TheDocumentFoundation.LibreOffice.HelpPack -e &&
 winget install --id Microsoft.PCManager -e &&
 winget install --id Microsoft.WindowsPCHealthCheck -e &&
 winget install --id Microsoft.PowerToys -e &&
-winget install --id ProtonTechnologies.ProtonVPN -e &&
+winget install --id Proton.ProtonVPN -e &&
 winget install --id Microsoft.VisualStudioCode -e &&
 winget install --id Git.Git -e &&
 winget install --id Discord.Discord -e &&
