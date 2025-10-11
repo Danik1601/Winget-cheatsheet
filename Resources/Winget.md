@@ -164,12 +164,6 @@ Speedtest by Ookla:
 winget install --id 9NBLGGH4Z1JC -e --accept-package-agreements &&
 ```
 
-TeamViewer: Remote Control:
-
-```
-winget install --id 9WZDNCRFJ0RH -e --accept-package-agreements &&
-```
-
 Windows Subsystem for Android:
 
 ```
@@ -296,6 +290,12 @@ Windows File Recovery:
 winget install --id 9N26S50LN705 -e --accept-package-agreements &&
 ```
 
+Rufus:
+
+```
+winget install --id 9PC3H3V7Q9CH -e --accept-package-agreements &&
+```
+
 iTunes:
 
 ```
@@ -312,6 +312,12 @@ HotSpot Shield VPN:
 
 ```
 winget install --id 9WZDNCRDFNG7 -e --accept-package-agreements &&
+```
+
+TeamViewer: Remote Control:
+
+```
+winget install --id 9WZDNCRFJ0RH -e --accept-package-agreements &&
 ```
 
 #### Games:
