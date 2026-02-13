@@ -605,7 +605,7 @@ winget install --id Ubisoft.Connect -e &&
 winget upgrade --all
 ```
 
-### Full package (AMD & Intel & MSI Center & Logitech G HUB & SteelSeries GG & DualSense Firmware Updater):
+### Full package (AMD & Intel & MSI Center & Logitech G HUB & SteelSeries GG & PlayStation Accessories):
 
 ```
 winget install --id 9MZ95KL8MR0L -e --accept-package-agreements &&
