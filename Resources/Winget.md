@@ -455,7 +455,7 @@ winget install --id DisplayLink.GraphicsDriver -e
 winget install --id Logitech.OptionsPlus -e &&
 winget install --id Logitech.GHUB -e &&
 winget install --id SteelSeries.GG -e &&
-winget install --id PlayStation.DualSenseFWUpdater -e &&
+winget install --id PlayStation.PlayStationAccessories -e &&
 ```
 
 #### Redistributables & runtimes:
@@ -656,7 +656,7 @@ winget install --id Intel.IntelDriverAndSupportAssistant -e &&
 winget install --id Logitech.OptionsPlus -e &&
 winget install --id Logitech.GHUB -e &&
 winget install --id SteelSeries.GG -e &&
-winget install --id PlayStation.DualSenseFWUpdater -e &&
+winget install --id PlayStation.PlayStationAccessories -e &&
 winget upgrade --all
 ```
 
