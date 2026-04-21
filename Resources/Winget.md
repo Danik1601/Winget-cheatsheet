@@ -427,7 +427,7 @@ winget install --id LogMeIn.Hamachi -e &&
 
 ```
 winget install --id Oracle.VirtualBox -e &&
-winget install --id RedHat.Podman -e &&
+winget install --id Podman.CLI -e &&
 winget install --id RedHat.Podman-Desktop -e &&
 winget install --id Docker.DockerDesktop -e &&
 ```
